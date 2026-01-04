@@ -1,0 +1,7 @@
+{
+  "name": "CookSnapAI",
+  "description": "Dein nachhaltiger Küchen-Assistent. Nichts verschwenden, alles verwenden.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

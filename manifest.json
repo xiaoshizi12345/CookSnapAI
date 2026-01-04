@@ -1,0 +1,18 @@
+
+{
+  "name": "CookSnapAI",
+  "short_name": "CookSnap",
+  "description": "Dein nachhaltiger Küchen-Assistent. Nichts verschwenden, alles verwenden.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FDFCF8",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1830/1830839.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
